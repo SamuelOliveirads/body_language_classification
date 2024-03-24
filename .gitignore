@@ -16,6 +16,7 @@ data/**
 
 !data/03_primary/**
 !data/04_feature/**
+!data/06_models/**
 
 # also keep all .gitkeep files
 !.gitkeep
