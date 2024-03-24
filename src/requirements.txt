@@ -15,3 +15,4 @@ pytest-mock>=1.7.1, <2.0
 pytest~=7.2
 mediapipe==0.10.11
 scikit-learn==1.4.1
+tensorflow==2.16.1
